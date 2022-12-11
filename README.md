@@ -34,5 +34,6 @@
 
 ![Блок-схема](BlockDiagram.jpg)
 
+[Ссылка на изображение, если не окроется](https://ltdfoto.ru/image/X2Fh5u)
 
 
