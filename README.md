@@ -55,3 +55,5 @@
 
 
 4. Написалa программу [Ссылка на Program.cs](https://github.com/AnastasiyaKolobkova/FinalProject/commit/2fcb97f83898cf24433ea892427ef377f42069ae)
+
+5. Использовала контроль версий.
