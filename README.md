@@ -34,3 +34,5 @@
 
 ![Блок-схема](BlockDiagram.jpg)
 
+
+
