@@ -29,3 +29,8 @@
 1. Создала репозиторий на GitHub.
 
 [Ссыка на репозиторий](https://github.com/AnastasiyaKolobkova/FinalProject)
+
+2. Нарисовалa блок-схему алгоритма.
+
+![Блок-схема](BlockDiagram.jpg)
+
